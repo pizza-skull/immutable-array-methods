@@ -1,4 +1,4 @@
-# immutable-array-methods [![Build Status](https://travis-ci.org/micnews/immutable-array-methods.png?branch=master)](https://travis-ci.org/micnews/immutable-array-methods)
+# immutable-array-methods 
 
 Immutable versions of normally mutable array methods, such as pop(), push(), splice()
 
@@ -53,11 +53,11 @@ None
 
 ## Dev Dependencies
 
-- [ava](https://github.com/sindresorhus/ava): Futuristic test runner 🚀
-- [babel-cli](https://github.com/babel/babel/tree/master/packages): Babel command line.
-- [babel-core](https://github.com/babel/babel/tree/master/packages): Babel compiler core.
-- [babel-preset-es2015](https://github.com/babel/babel/tree/master/packages): Babel preset for all es2015 plugins.
+- [ava](): Testing can be a drag. AVA helps you get it done.
 - [package-json-to-readme](https://github.com/zeke/package-json-to-readme): Generate a README.md from package.json contents
+- [ts-node](https://github.com/TypeStrong/ts-node): TypeScript execution environment and REPL for node.js, with source map support
+- [type-fest](): A collection of essential TypeScript types
+- [typescript](https://github.com/Microsoft/TypeScript): TypeScript is a language for application scale JavaScript development
 
 
 ## License
